@@ -1,0 +1,970 @@
+
+
+--- Page 1 ---
+HARVESTWILD ORGANIC SOLUTIONS PRIVATE LIMITED
+CIN:- U15122K A201 5PTCO82370
+Door No.106,0.B Chudaballi, Off Kanakpura Read, Udayapura post Bangalore, Karnataka
+Email 1D: manas.nanda@ gmail.com, Mobile No.: 7899073662
+Balance Sheet as at 31st March 2023
+Presented in [NR Hundred unless otherwise stated
+Particulars Notes 31.03.2023 31.03.2022
+AW EQUITY/AND LIABIL TS
+(1) Shareholders’ Funds
+(a) Share Capital 2 1B 1173
+(b) Reserves & Surplus 3 40,006 37,004
+{e) Money received against share wareant - -
+(2) Share application money pending allotment - -
+(3) Non Current Liabilties
+(a) Long-Tem Borrowings 4 10,606 12,309
+(b) Deferred tax liabilities (Net) - -
+(c) Other Long term liabilities - -
+(d) Long-term provisions - -
+(4) Current Liabilties
+(a) Short-Tem Borrowings 5 2,377 1,698
+(b) Trade Payables 6 3,644 1277
+(e) Other Current liabilties 7 1,034 4.282
+(d) Short-term provisions 8 1,000 2,000
+ee |
+Total
+es
+DP
+(1) Non-Current Assets
+(a) Property, Plant and Equipment and Intangible assets 9
+(i) Property, Plant and Equipment 2,947 4294
+(ii) Intangible assets 346 384
+ii) Capital work-in-progress - -
+(iv) Intangible assets under development - -
+{b) Non-current investments 10 40,339 28.789
+{e) Deferred tax assets (net) MW 910 968
+(d) Long-term loans and advances - -
+{c) Other non-current assets -
+(2) Current Assets
+{a) Current investments - -
+(b) Inventories 12 5,220 7125
+{c) Trade Receivables 3 1,062 3385
+(a) Cash and eash equivalems 14 3,940 7.9%
+{c) Short-term loans and advances 15 630 4530
+(1) Other Current Assets 16 4,445 2,303
+Total
+The accompanying notes are an integeal part of the Financial Statements
+As per Report af even date
+For Tejus & Ravi Kiran For and on behalf of the Board of Pf)
+Chartered Accountants .
+Firm Registration Number : 01341887, a7. Ne +f tho
+Poo tek Ge “aN Lane ——
+Ravi Kiran R Oe “ ve) =} Manas Nanda Amrutha M Nambiar
+Partner ioe ot Director Director
+Membership No: 225306 a eciaere ae DIN-07258309 DIN-08082502
+UDIN: 23225306BGXFHQ6743 Date : 20-09-2023 Date : 20-09-2023
+Place: Bangalore Place: Bangalore
+Date : 20-09-2023
+Place: Bangalore
+
+
+
+--- Page 2 ---
+HARVESTWILD ORGANIC SOLUTIONS PRIVATE LIMITED
+CIN: UI5122KA2015PTC082370
+Door No.106,0.B Chudahalli, Off Kanakpura Road, Udayapura post Bangalore, Karnataka
+Email ID: manas.nanda@gmail.com, Mobile No.: 7899073662
+Statement of Profit and Loss for the year ended 31st March,2023
+Presented in INR Hundred unless otherwise stated
+Notes ‘As at Asat
+Pd
+1 Revemue from Operations 17
+IL Other Income 18 17,448 7,351
+IL Total Income (1411)
+IV Expenses:
+Cost of materials consumed 19 35,967 38,796
+Changes in Inventory 20 - -
+Employee Benefits Expenses 21 33,071 36,653
+Finance Cost 2 306 449
+Depreciation and Amortization Expenses 9 1,395 2,043
+Other Expenses 2B 1.19,603 79,801
+Total Expenses
+V__ Profit before exceptional and extraordinary items and tax 3,060 (9,861)
+VI Exceptional items - -
+VIL Profit before extraordinary items and tax 3,060 (9,861)
+VIII Extraordinary items - -
+IX Profit before tax 3,060 (9,861)
+X Tax Expense:
+- Current Tax - -
+- Deferred Tax 58 (19)
+XI Profit (Loss) for the period from continuing operations 3,002 (9,542)
+XII_ Profit/(loss) from discontinuing operations -
+XIII Tax expense of discontinuing operations -
+XIV Profit/(loss) from Discontinuing operations (after tax) :
+XV Profit (Loss) for the year
+XVI_ Earnings per share 4
+Basic 2.6 @)
+Diluted 2.6 @&)
+Number of shares used in computing earnings per share 1,17,342 1,17,342
+[ Significam Accounting Policies & Notes on Financial Staements
+The accompanying notes are an integral part of the Financial Statements
+As per Report of even date
+For Tejus & Ravi Kiran For and on behalf of the Board of Directors
+Chartered Accountants
+Firm Registration Number : 0134188 iv —f)
+Poo Tegan a oN bho TS
+Ravi Kiran R Bs Sz pera Manas Nanda Ameutha M Nambiar
+Partner whee Director Director
+Membership No: 225306 DIN-07258309 DIN-08082502
+LDIN: 23225306BGXFHQ6743 Date : 20-09-2023 Date : 20-09-2023
+Place: Bangalore Place: Bangalore
+Date : 20-09-2023
+Place: Bangalore
+
+
+
+--- Page 3 ---
+HARVESTWILD ORGANIC SGLUTIONS PRIVATE LIMITED
+CIN:- U15122KA2015PTC082370
+Door No.106,0.B Chudahalli, Off Kanakpura Road, Udayapura post Bangalore, Karnataka
+Email ID: manas.nanda@ gmail.com, Mobile No.: 7899073662
+Notes to the financial statements for the year ended March 31, 2023
+Presented in INR Hundred unless otherwise stated
+Note 1
+Company Overview
+Harvestwild Organic Solutions Private Limited is a private limited company was incorporated under Companies Act,2013 on 19th August,2015.
+The CIN of the company is U15122KA2015PTC082370. To carry on the business as manufacturers, developers, buyers, sellers, importers, exporters,
+refiners, dealers, agents, wholesalers, retailers and distributors of fruit based organic detergents, food preparations, health foods and all other products
+developed or to be developed using biotechnology; and to undertake all kinds of research & development in healthcare, biotechnology, formulations,
+preparations and to undertake clinical research, contract clinical research activities to develop new products and to patent all original research, procedures,
+methods, products and by-products, technologies and software developed by the Company both in India as well as outside India.
+Summary of Significant Accounting Policies
+A. Basis of preparation of financial statements
+The financial statements of the company have been prepared in accordance with the generally accepted accounting principles in India (Indian GAAP).
+The company has prepared these financial statements to comply in all material respects with the accounting standards notified under Section 133 of
+the Companies Act 2013, read together with paragraph 7 of the Companies (Accounts) Rules 2014. The financial statements have been prepared on
+an accrual, Going concern basis and under the historical cost convention.
+B Use of Estimates
+The preparation of financial statements in conformity with general accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent liabilities at the date of the financial statements and
+the results of operations during the reporting period end. Although these estimates are based upon management’s best knowledge of current events
+and actions, actual results could differ from these estimates.
+C_ Cash and Cash Equivalents
+Cash comprises cash on hand and demand deposits with banks. Cash equivalents are short-term balances (with an original maturity of three months
+or less from the date of acquisition), highly liquid investments that are readily convertible into known amounts of cash and which are subject to
+insignificant risk of changes in value.
+D_ Property Plant & Equipments and depreciation
+(i) Property Plant & Equipments
+(a) Tangible assets and Capital work-in progress
+Property, Plant and Equipment are stated at cost less accumulated depreciation. The Company capitalises all costs relating to the acquisition and
+installation of Property, Plant and Equipment.
+The carrying amounts of assets are reviewed at each balance sheet date if there is any indication of impairment based on internal/external factors. An
+impairment loss is recognized wherever the carrying amount of an asset exceeds its recoverable amount. The recoverable amount is the greater of
+the asset’s net selling price and value in use. In assessing value in use, the Company measures its ‘value in use’ on the basis of undiscounted cash
+flows of next five years projections estimated based on current prices.
+(b) Intangible assets
+Intangible assets are recorded at the consideration paid for acquisition of such assets and are carried at cost less accumulated amortization and
+impairment.
+(ii) Useful lives/depreciation rates
+Schedule II to the Companies Act 2013 prescribes useful lives for fixed assets. Which allows companies to use higher/ lower useful lives and residual
+values if such useful lives and residual values can be technically supported and justification for difference is disclosed in the financial statements.
+(iii) Depreciation on tangible assets
+Depreciation is provided on the written down value basis using the life of assets prescribed under the schedule II of the Companies Act, 2013 as
+follows :
+Particulars Useful life of the
+assets (years)
+[Plant and Machinery
+[Vehicle BT
+(iv) Amortisation of intangible assets
+Intangible assets are amortized over their estimated useful life on SLM method .The estimated useful life of the intangible assets is presumed by the
+management to be 10 years and the amortization period are reviewed at the end of the each financial year and the amortization method is revised to
+reflect the change pattern.
+
+
+
+--- Page 4 ---
+E__ Inventories
+Inventories comprising of Materials, and Cosumables which are valued at cost or net realisable value whichever is less. Net realizable value is the
+estimated selling price in the ordinary course of business, less estimated costs of completion and estimated costs necessary to make the sale. Cost is
+arrived as first-in-first out basis.
+
+F Revenue Recognition
+A. Sale of Products:
+Revenue from Sale of Goods are recognized on accrual basis as the service are rendered as per the terms of the agreement entered into with the
+clients and interest accrued if any are recognized on the date of entry in the bank statement.
+B. Interest Income:
+Interest Income is recognised using time-proportion method, based on rates implicit in the transactions.
+C. Dividend Income:
+Dividend Income is recognised when the company’s right to receive the same has been established.
+
+G_ Expenditure
+A provision is recognized when an enterprise has a present obligation as a result of past event; it is probable that an outflow of resources will be
+required to settle the obligation, in respect of which a reliable estimate can be made. Provisions are not discounted to its present value and are
+determined based on best estimate required to settle the obligation at the balance sheet date. These are reviewed at each balance sheet date and
+adjusted to reflect the current best estimates. The Estimates towards warranty claims made against the company is on a technical basis.
+
+H_ Cash Flow
+Cash flows are reported using the indirect method, whereby net profit before tax is adjusted for the effects of transactions of a non-cash nature and
+any deferrals or accruals of past or future cash receipts or payments. The cash flows from regular revenue generating, investing and financing
+activities of the Company are segregated.
+
+I Earnings Per Share
+Basic earnings per share amounts are computed by dividing net profit or loss for the period attributable to equity shareholders by the weighted
+average number of shares outstanding during the year. For the purpose of calculating diluted earnings per share, the net profit for the year
+attributable to equity shareholders and the weighted average number of shares outstanding during the period are adjusted for the effects of all dilutive
+
+J Foreign currency transactions and balances
+(i) Initial recognition
+Foreign currency transactions are recorded in the reporting currency, by applying to the foreign currency amount the exchange rate between the
+reporting currency and the foreign currency at the date of the transaction.
+(ii) Exchange differences
+Exchange differences arising on settlement are recognized as income or as expenses in the period in which they arise.
+
+K_ Retirement Benefits
+Retirement benefit costs for the year are determined on the following basis:
+1. As the company is with less than 20 employees and the provisions of The Employees' Provident Fund and Miscellaneous Provisions Act 1952 are
+not applicable to the company for reporting period.
+2. As the company is with less than 10 employees and the provisions of The Payment of Gratuity Act, 1972 (the Gratuity Act) are not applicable to
+the company for the reporting period.
+
+L_ Accounting for Tax on Income
+Current tax is determined based on the amount of tax payable in respect of taxable income for the year. Deferred tax is recognized on timing
+differences: being the difference between the taxable incomes and accounting income that originate in one year and are capable of reversal in one or
+more subsequent years. Deferred tax assets and liabilities have been enacted or substantively enacted by the Balance sheet date. Deferred tax assets
+arising on account of unabsorbed depreciation or carry forward of tax losses are recognized only to the extent that there is virtual certainty supported
+by convincing evidence that sufficient future taxable income will be available against which such deferred tax assets can be realized.
+
+M Contingent Liabilities & Provisions
+In terms of the requirements of the Accounting Standard 29 (AS 29) on “Provisions, Contingent Liabilities and Contingent Assets” notified by
+Companies (Accounting Standards) Rules, 2006:
++ where, as a result of past events, there is a present obligation that probably requires an outflow of resources and a reliable estimate can be made of
+the amount of obligation- an appropriate provision is created and disclosed;
++ where, as a result of past events, there is a possible obligation that may, but probably will not require an outflow of resources- no provision is
+recognized but appropriate disclosure made as contingent liabilities unless the possibility of outflow is remote.
+
+
+
+--- Page 5 ---
+HARVESTWILD ORGANIC SOLUTIONS PRIVATE LIMITED
+
+CIN:- UL5122KA2015PTC082370
+
+Door No.106,0.B Chudahalli, Off Kanakpura Road, Udayapura post Bangalore, Karnataka
+
+Email 1D: manas.nanda@gmail.com, Mobile No.: 7899073662
+
+Notes to the financial statements for the year ended 31 March 2023 (continued)
+
+Presented in INR Hundred unless otherwise stated
+
+2 Share capital
+1.1 Details of authorised, Issued, Subscribed and paid up capital
+[Authorised Share Capital
+aoow equ sire Rs ch
+[4.00000 [4.000] 4.00,000 [4.000]
+Issued
+IT Eats of Rach Fal pis
+Subscribed and paid up
+I bg aero Rach Eu pis
+1.2 Reconciliation of the number of shares and amount outstanding at the beginning and at the end of the reporting period :
+Asat As at
+Shares outstanding at the beginning of 117342 WB 1.17342 173
+Issued during the year - - - -
+Shares brought back : : : :
+[Share outstanding at the reporting period
+1.3 Details of shares held by each sharcholder holding more than S% shares:
+As at As at
+No.of ] %efholding | No. of Shares % of holding
+co a ce
+Equity Shares
+FISE 12.074 10.29% 12,074 10.29%
+1.3 Shares held by Promoters as at the end of year 31st March 2023
+‘Bist March 2023 31st March 2022
+Promoter name No. ofshares] _% of % of Ye Cange during
+. oF a a the year
+a elas | |
+No. of Shares
+
+1.4 Terms/Rights attached to equity shares :
+Equity Shares : The Company has only one class of equity shares having a par value of Rs. U/- per share. Each holder of equity is entitled to one vote per share. In the event of
+liquidation of the company, the holders of equity shares will be entitled to receive remaining assets of the company, after distribution of all preferential amounts. The
+distribution will be in proportion to the number of equity shares held by the shareholders. The Company declares and pays dividends in Indian Rupees & foreign currency. The
+dividend proposed by the Board of Directors is subject to the approval of the shareholders in the ensuing Annual General Meeting. The company has not declared any dividend
+daring the year
+
+
+
+--- Page 6 ---
+ovo" [= og er]
+CS CC Zang mp Fa)
+vr9'e pe ste S130 (Ww)
+[oe WOW samp pamndsia (1)
+(OG ase 9
+sueoh ¢ ueU) ad suea, sieak ae0k
+€ ueua alow KET Zt Ty yeu 5507
+reo. supinagued
+sayqeceg
+quauiked Jo ayep anp wio1y spotiad Buyro||o} 405 Bulpueysing pemaun
+£202 ‘LE DIE 2 Sy
+‘ainpats Buleie sa\qekeg apes,
+aig Aq payaajo2 uoljeuUoyul Jo siseq aly Uo paljquapl Uaag axey sated Yons quays aly Oo] pauIULayap Uaaq aAzy sastidsaqUa 11eWS puE sasLidJayua O11 0} sang
+“DV GAWSW ain Jo £7 uoRDas Japun|
+aimupuadxa ajquonpap @ Jo aauemoyesip jo asodind ayy 104 ‘astidsaqua yews ay; 07 pred Ayjem2e aie anoqe sanp ysa1aqUl
+‘ayy ual 8 2p Yon jHUN ‘sueak Bulpaazons aig UI uaAa aigeded pur anp Sululeway ysauaqul Jayyny Jo wnoWwe ay, (a)
+“uead Bujunooze y>ee jo pus ayy ye pledun Bululewias pue pansooe ysasaqUl Jo jWNOWE ay {p)
+"yay GaWSW aln Japun paryizads ysazaqU! ayy BuIppe Ino ang (se—k ayy BuLINp Aep payulodde aun
+puofaq nq pied uaag ancy yaryes) quauAed Buryew UF Aejap Jo poliad ayy Jo) a\gefed pue anp ysasaqUl Jo yUNOWE ay (>)
+“4eaé Burqunoa22 y>ea Buuinp kep payurodde at puodag Janddns ayy oy apeus quaurked
+ayy Jo qunowe aug yriM Buoje “oy GAWSW AUR Jo 9} UOR2as Jo sulay UL Jafng ayy Aq pled ysavaqul jo qWnowe ay) (q)
+wala]
+yedroud|
+lead Burqunos22 ysea Jo pua aly 3 Janddns Aue oy predun Suwuiewas qunoury (2)
+zeoz ew asig | £707 HAP ISTE
+wey wey suejnonueg
+au WI ayqenece uoReWiojuI ayy Uo paseg yy GaWSW JapUN paraysifas siariddns 03 Bunejas sainso}2s1q
+wal [ress
+ral] FRE Sasudiajue [Us pue Sas\idiaqua O11 LeU JalRO SiONpaID JO Sanp BuIpUeISINO 7220
+: : sasudiaqua jeuls pue sasuidiaqua u>4ul Jo sanp Bu1pue9syno 72301
+Tay a unOUny) | (Se ursuToWy)
+EO IEW ISTE | ECOT UII ISTE
+easy wey
+SHGERED SPELL, 9
+5 2
+151 9 HOSCEPIED HPAL)
+ies POL uvo] ome Jo wotLIod 12a) 1I0Yg|
+paanvasuy
+Tau auneury) | (se upjunomy)
+Teo IEW ISIE | ELOT HALA ISTE
+easy wey
+SHupaoriog UL ONS s
+Oe zI a |
+OEE 909 eo ony
+000 00°01 INI oy ueoT
+eo] paznasup)
+Tay a unOUny) | (se ursunoWy)
+zeoz ew asig | £707 HAL ISTE
+easy mesy
+SHuMO.LIOG waar BuO] F
+a
+Sraza Guim S807 pu yyoag Jo oars ayL wy (ToyOqyAsMdNg ]ON
+ss ss poarysuery -s897|
+(zrs'6) z00'r seas ayy soy (S8OT) / TYOHY
+(eecoz) (16°62) suoutares jeroueay ase rod se aouepeg
+S607] PUE sod Jo WNOUIZEIS HP UI ODYDC) ;sMydLng
+ea) E99 souejeg Busso1 |
+= = seas ayy Zuuinp swomnppy|
+oz699 oze99 squoutares jeroueay ise] tod se asueteg
+wunmuasg Aq1ns9g
+Tay a unOUny) | (Se ursuToWy)
+EO IEW ISTE | ECOT IPI ISTE
+easy wey
+THING PLE SADE ¢
+
+
+
+--- Page 7 ---
+. Payables
+Particulars: Total
+[iy SME ee Skee)
+[invosputed es WHE
+a 7 Z|
+[inosputed aes Oe PP PP
+a SN
+7 Other Current Liabilities
+Asat Asat
+Pm Pain ei
+Salary Payable - 2.384
+[Rog rg ae |
+§ Short term Provisions
+Asat Asat
+fp aa ea |
+7 ET
+10 Non-Current Invesment
+Asat Asat
+fem ag | eta
+7 EX
+
+
+
+--- Page 8 ---
+1
+(paindsipup + paandsiq)
+ayqeniaaas ynyaqnop 40) wolsiAodg 35537
+TRNIanop pauepisuo3
+sayqeatazay apes) paindsig (Al)
+poo8 pasapisuo> sajqeaianay|
+apedy paindsig (11)
+TN|WGnop pasapisuod|
+sayqemazay apes, paindsipun (11)
+poos pasapisuos|
+790'1 290'L sayqeata2as apes paandsipup (1)
+se0h | «
+TeIOL sueah ¢ ueuy asow| — supak ¢-7 suwekz-b | oy syuow sang suejnonied
+MAHON 9 | g ueuy ssaq paiqun
+‘59018394 JO a1ep aNp UIO4) Spoliad Bul MOT]O} 10) BuIpueysNg - WAND) EZOZ ‘bE WDIEW Te Sv,
+amnpayps Suase sayqearoay pec,
+ZOU
+7901 PooH porsprsues “painasury
+EEL SE
+zzoz wren sig | €z0z WN STE
+sy rey
+SaIQEAIIOY IPELL CT
+ores |
+POS HUD
+EEL MS EC
+TOT WHEN ISIE | ETOT MW BTE
+sy rey
+SOENUT ZT
+[Teas Ne]
+O16 ComaerDassy X61, pouaPC ANI
+996 O16 S[EIUEMY UF pene, UONESTTOUTY | HOneIDaIdeq pue LOAETsoIdep XE] UOSATOq SUID] Jo OCU] : SOSSe POXLg
+ase x61 paaigq|
+Aupgeyy xe 1 poxrayoq ssoury|
+speroueny uf poBaey.) uopestiouny / conersardeq pue uopersordep xv} uooarjaq aouraYIC Jo rdw] : SOsse Paty
+Annet, x¥,L paa.sajoq)
+29094910 SUN | [EVOL
+uocnyseoug 20807] 204 coWHACHg
+Sasso] ssouqsng poquosqeury
+(OWor sm pomoyresip dorstacad ney)
+SCLL vo IOI] (Ep Smt dUEMOTTESTC
+seed st (sooy npay) (eMelop sm pamorpesig sestadxg|
+(oreo cees'e) soouamyig Benny 1ar¢) “a
+L208 Bro. JOY XB] outOuy Jad Se DSS POXTy JO ACAN|
+8L9°P ras wy soqedcuo aod se jassy paxty Jo ACAN|
+(sy un junoury) (Sy ur junowy)
+ZzO7 WHEN ISIE | ETOT STE
+sy rey
+Gan) assy AHL POAT 11
+
+
+
+--- Page 9 ---
+a
+pital 6961 AQEATOIONW STL
+- cer’ yso1qu paTus.y|
+(e0'L £09 SOpQealesey 182s ]U]
+
+Peco femme) mmm
+
+a
+
+ese ferrer] me
+
+[base wee
+OLV Onl SIZ IID
+18k 96 Ol ID
+POF L L977 00 IID
+Ome Lite eg DAC
+FOL FOL yueg Sag
+too oFeL pury uo yse-
+
+squajeambo yswa pus qse>|
+
+Sse
+
+‘Suapeambg Yse-y PUE YSeD FT
+
+a
+
+(paindsipup + paandsiq)
+Es Pe PO Pee
+TN|WGnop pasapisuod|
+
+ER Pa (PO (PR eng
+
+poo8 pasapisuos sajqeaianay|
+
+Pe PRESS
+
+THAIGnoP pasapisuod|
+
+Ee a DP secre
+
+pooé payapisuo.|
+
+a DPR et
+
+ee ee
+
+gue sey ma
+
+
+
+--- Page 10 ---
+a
+CH wE puNOUTY) (sy ur gunowy)
+ZZOZ HIE ISIE £207 HAMA ISTE ‘saEMOTE
+wsy yey
+350) OMEN ZZ
+[ere eT
+8sR'L OFS‘ puadns)
+£08E ole asada orgy TAS
+raed zar'er snuoq pu solve ‘saueqes|
+Te aE pUNOUTYY (sy uy gunowy)
+ZZOZ HAE ISIE £207 WAM ISTE sae
+sy yesy
+soruadag mpsuag sokodurg 1z
+Aaoqu9auy uy aZueq? fo peD)suy patensue? jepADPELI fo 1809 UF SafAOWUDAUT UALOYS BALE D4 —: DION
+901g BuIso]9 8897]
+yporg Surtadg)
+CH uw pUNOUTY) (sy uy gunowy)
+7Z07 WEA STE F707 WAR ISTE ‘SAEINOLTEL
+qwsy yesy
+Crowsaauy uF SoFUEG OZ
+SEVE aad Spows BaysOT,
+8068 z90'rS aseyorngt 1)
+zoe seve yours Suniodo|
+CHL wE pUNOUTY) (sy uy qunowy)
+7Z07 WEA STE F707 WAR ISTE ‘SAEINOLTEL
+qwsy yesy
+POUMMSUO SIEDOW IN JOS) 61
+Fg $F PUTaa XT SUTODUT UO WSOTDALT
+99 oor atuoaur 019
+ram] Of6'1 auoaty ysor01Ut]
+Sees 00'S 1 aurosuy sutra anuandy
+‘CHL uE pUNOUTY) (sy uy qunowy)
+7Z07 WEA STE F707 WAR ISTE ‘SAEINOLTEL
+qwsy yesy
+SUROTHT LOG RI
+ESOT Test TT
+oEs0F 56°56" SIonpory JO Bes toy aUOdLI]
+suopeaado usoay anuaAay
+TAME UNOUTY) Cy ur gunowy)
+TZOZ WEIN ISTE £707 HAMA ISTE sae
+ye sw qesy
+SuOWEIAO Woy OMUTATA 11
+pays 351.1990 SS9[0 PoapUnH INT Wf PaaS Ty
+{panuynos) ¢707 YAEHL LE PAPUD WDA ayy 0} SJUDLLATEYS R_OUEUTE Iq 04 SOPON
+TODELOGERL FON AIGOTY “uroo yemE Zepueurseueur Cy NEMA
+eyEeaaey S10peSueg ysod eandedep7 ‘peoy eandysuey. HO “HOEPAYS g-O'90-ON 400
+OLETRODAASIOTV MAZZI NID
+GAMIATT ALVARId SNOLLOTOS DINVDUO OTIALSIANVH
+
+
+
+--- Page 11 ---
+23 Other Expenses
+AS at As at
+Particulars Jist March 2023 Ist March 2022
+Bank charges a3 158
+Couriers & Postage Charges 1,923 ant
+Discount Allowed - 100
+Legal and Profession fee 10374 4349
+Advertisement and Marketing Expenses 12,065 15.884
+Processing Fee 45,165 30.211
+Raw Materials 1,610 1.746
+Tech- Development 100 -
+Office Expenses 8.936 3.072
+Payment to auditors (Refer details below) 1,000 1.250
+Electricity and Water Charges 434 325
+Printing and Stationary 362 165
+Rent 13,170 2.407
+Repair & Maintenance 17 a7
+Insurance Expenses 24 86
+Transport Expenses A975 441
+Travelling Expenses 3,836 1944
+Telephone and Internet Charges 134 276
+Rates and Taxes 10,084 8311
+Licence Fee 180 -
+Interior Expenses 2,460 -
+Bad Debts - 1764
+[Content writing expenses - 175
+[Online course expenses - 140
+Payment gateway charges a4 304
+[Software expense 1,337 132
+Website Development expenses - 409
+Prior period expenditure - 599
+Rota 819,603 T9801]
+AS at As at
+Payment to Auditors (Excluding Service Tax) Jist March 2023 Ist March 2022
+(tah 000 F250]
+24 EARNINGS PER SHARE (EPS )
+The following reflects the profit and share data used in the basic and diluted EPS computation: AS at As at
+3ist March 2023 3Ist March 2022
+Basic & Diluted EPS
+Net profit # (loss) after tax 3,002 (9.542)
+Less : Dividend on convertible preference shares & tax thereon -
+[Net profit ‘tloss) for calculation of EPS 3,002 (9.542)
+Weighted average number of equity shares in calculating basic EPS 117,342 117342
+[Bearmings Per Share 2
+
+
+
+--- Page 12 ---
+HARVESTWILD ORGANIC SOLUTIONS PRIVATE LIMITED
+CIN:- ULS122KA2015PTC082370
+Door No.106,0.B Chudahalli, Off Kanakpura Road, Udayapura post Bangalore, Karnataka
+Email ID: manas.nanda@ gmail.com, Mobile No.: 7899073662
+Notes to the financial statements for the year ended March 31, 2023
+Presented in INR Hundred unless otherwise stated
+Note 25
+Related Party Disclosures
+Related parties with whom transactions have taken place during the year
+Names of related parties and description of relationship:
+Manas Nanda Shareholder and Director
+Amrutha M Nambiar Director
+IIMB Innovations Shareholder
+Harvestwild Foundation Director is trustee
+a. Remuneration to Key managerial personnel 31-Mar-23 31-Mar-22
+Manas Nanda 8,800 8,620
+Amrutha M Nambiar 2,245 4,964
+11,045 13,584
+Transactions with related parties Year ended ‘Additions during the | Repayment/ Set olf | Year ended
+31 March 2022 year during the year 31-Mar-23
+z z z z
+
+Advance Received / (paid)
+
+Manas Nanda (Sharcholder and Direetor) - -
+
+IIMB Lonovations 30,000 10,000
+
+Ameuth M Namibiar - -
+Note 26
+Capital and other commitments
+There were no capital and other commitments as on Balance Sheet date.
+Note 27
+Trade Receivables and Trade Payables, Loans & Advances
+Trade Receivables and Trade Payables, Loans and Advances balances disclosed in the financial statement are not subjected to the confirmation and reconciliation as at the end of
+the financial year.
+Note 28
+Previous year figures
+Previous year’s figures have been regrouped wherever necessary to confirm to the current year's classification and rounded off to hundreds
+Note-29
+Additional disclosures
+(i) Disclosures of transactions with struck off Companies
+The Company does not have any transactions with companies struck off under section 248 of the Companies Act, 2013 or section 560 of Companies Act, 1956.
+(ii) Compliance with number of layers of companies
+The Company has complied with the requirements of the number of layers prescribed under clause (87) of section 2 of the Companies Act, 2013 read with Companies (Restriction
+on number of Layers) Rules, 2017.
+(iii) No transactions to report against the following disclosure requirements as notified by MCA pursuant to amended Schedule III:
+(a) Crypto Currency or Virtual Currency.
+(b) Benami Property held under Prohibition of Benami Property Transactions Act, 1988 and rules made thereunder.
+(c) Registration of charges or satisfaction with Registrar of Companies.
+(d) Relating to borrowed funds:
+
+i. Wilful defaulter
+
+ii. Utilisation of borrowed funds & share premium
+
+iii. Borrowings obtained on the basis of security of current assets
+
+iv. Discrepancy in utilisation of borrowings
+
+y. Current maturity of long term borrowings.
+(e) Undisclosed income.
+(#) loans and advances to specified persons.
+In terms of our report attached
+For Tejus & Ravi Kiran For and on behalf of the Board of Dire; .
+Chartered Accountants
+Firm Registration Number : 01341;
+
+8 5 BRAT. Wn R
+2 NG
+feo Vaya ar, Ka Qn —_—<
+- [Warne ste | . <a .
+Ravi Kiran R O° ‘)s Manas Nanda Amrutha M Naiibiar
+Partner Cee ~t iy Director Director
+Membership No: 225306 siLin ge DIN-07258309  DIN-08082502
+UDIN: 23225306BGXFIIQ6743 Date : 20-09-2023 Date : 20-09-2023
+Place: Bangalore Place: Bangalore
+
+Date : 20-09-2023
+Place: Bangalore
+
+
+
+--- Page 13 ---
+HARVESTWILD ORGANIC SOLUTIONS PRIVATE LIMITED
+CIN:- U15122KA2615PTC082370
+Door No.106,0.B Chudahalli, Off Kanakpura Road, Udayapura post Bangalore, Karnataka
+Email ID: manas.nanda@gmail.com, Mobile No.: 7899073662
+Presented in INR Hundred unless otherwise stated
+Note:9
+Schedules forming part of Balance Sheet as at 31° March 2023
+Property, plant and equipment
+Gross Carrying Value Depreciation and Amortisation Net Carrying Value
+SI iti
+PARTICULARS Rate ‘As at Additions ; ‘Asat AS at For the Asat Asat As at
+No. wDVv| Ist April, 2022 during the Deletions 31 March, 2023 Ist April, year 31 March, 31 March, 31 March,
+l Aprns year ’ 2022 : 2023 2023 2022
+A | Tangible Assets
+Furniture and Fittings 25.89% 2,498 2,498 1,583 237 1,820 678 915
+Computers and Data Processing 63.16% 741 741 736 3 739 > 5
+Units
+Office Equipment 45.07% 1,899 1,899 1,446 204 1,650 248 452
+Plant and Machinery 31.23% 192 192 131 19 150 42 61
+Car 31.23% 7,884 7.884 5,024 893 5.917 1,967 2,860
+| EC) 13.214 8,920 1,357 10,276 2,938 4.204
+In-Tangible Assets
+Website 10.00% 725 725 489 24 513 212 236
+Trade mark 10.00% 255 255 107 15 121 134 148
+Peso fsa se f safwa a5 f 38 |
+[fro aga} 14,194 9,516 1395] 10,911 | 3,283 4,678
+
+
+
+--- Page 14 ---
+Refer
+[{wumerator /Denominator) | Current'Year [Previous Year [| Notes
+1.90 273| 31% 1
+a a ee
+9.98 (21.97)| 145% 2
+es ——— ar rr re
+2:56 (g.13)| 131% 2
+[rvewrorvrunnovenanio _anotgeodesott al
+9.05 | 65% 3
+i ——— a rd
+88.73 0.23 | 38427%
+a —— ae rs re
+21.97 o10| 22541% | 5
+|
+27.08 3.75 | 209%
+a re ea
+0.02 (0.07)| 123% 7
+Return on Capital Employed
+(0.20)| 130%
+NOTES:
+1 Current assets and Current Liabilities are decresed during the year
+2 Company profit is increased in the year compared to previous year
+3 As increase in sales the COGS also increased and inventory is also decreased
+4 As increase in sales debtors also recovered as compared to previous year
+5 As increase in Purchases from previous year and trade payables is decreased from previous year
+6 As increase in sales and Increase in working capital
+7 Increase in Sales compared to previous year
+8 Average capital employed and profit is increased compare to previous year
+9 Debt-Equity Ratio and return on investment is not applicable.
+
+
+
+--- Page 15 ---
+TEJUS AND RAVIKIRAN
+CHARTERED ACCOUNTANTS
+INDEPENDENT AUDITOR’S REPORT
+To the Members of M/s. HARVESTWILD ORGANIC SOLUTIONS PRIVATE LIMITED
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the accompanying financial statements of M/s. Harvestwild Organic Solutions Private
+Limited (“the Company”), which comprises the Balance Sheet as at 31“March, 2023, and the Statement of
+Profit and Loss and notes to the financial statements, including a summary of significant accounting policies and
+other explanatory information.
+In our opinion and to the best of our information and according to the explanations given to us, the aforesaid
+financial statements give the information required by the Companies Act, 2013(‘Act”) in the manner so required
+and give a true and fair view in conformity with the accounting principles generally accepted in India, of the state
+of affairs of the Company as at 31° March, 2023, and loss for the year ended on that date.
+Basis for Opinion
+We conducted our audit in accordance with the Standards on Auditing (SAs) specified under section 143(10) of
+the Companies Act, 2013. Our responsibilities under those Standards are further described in the auditor’s
+responsibilities for the audit of the financial statements section of our report. We are independent of the Company
+in accordance with the code of ethics issued by the Institute of Chartered Accountants of India together with the
+ethical requirements that are relevant to our audit of the financial statements under the provisions of the
+Companies Act, 2013 and the rules thereunder, and we have fulfilled our other ethical responsibilities in
+accordance with these requirements and the code of ethics.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our
+opinion.
+Branch office : Door No 930, 1st Floor, 22nd Main Road, 4th T Block East, Jayanagar, Bangalore, Karnataka 560041
+Registered office : Behind Govt School, (Opp Shaneshwara Temple) Kudlu, Bangalore-560068
+Cell : +91-9986660579, 9663731357, E-mail : tejusbs@nxgconsulting.in, ravikiran@nxgconsulting.in
+Page 1 of 6
+
+
+
+--- Page 16 ---
+TEJUS AND RAVIKIRAN
+
+CHARTERED ACCOUNTANTS
+Key audit matters
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of
+the financial statements of the current period. These matters were addressed in the context of our audit of the
+financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on
+these matters.
+Information other than the financial statements and auditors’ report thereon
+The Company’s board of directors is responsible for the preparation of the other information. The other
+information comprises the information included in the Board’s Report including Annexure to Board’s Report,
+Business Responsibility Report but does not include the financial statements and our auditor’s report thereon.
+Our opinion on the financial statements does not cover the other information and we do not express any form of
+assurance conclusion thereon.
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in
+doing so, consider whether the other information is materially inconsistent with the financial statements or our
+knowledge obtained during the course of our audit or otherwise appears to be materially misstated.
+If, based on the work we have performed, we concluded that there is a material misstatement of this other
+information, we are required to report that fact. We have nothing to report in this regard.
+Responsibility of Management for the Financial Statements
+The Company’s board of directors is responsible for the matters stated in section 134(5) of the Companies Act,
+2013 (‘the Act”) with respect to the preparation of these financial statements that give a true and fair view of the
+financial position, and financial performance, (changes in equity) of the Company in accordance with the
+accounting principles generally accepted in India, including the accounting standards specified under section 133
+of the Act. This responsibility also includes maintenance of adequate accounting records in accordance with the
+provisions of the Act for safeguarding of the assets of the Company and for preventing and detecting frauds and
+other irregularities; selection and application of appropriate accounting policies; making judgments and estimates
+that are reasonable and prudent; and design, implementation and maintenance of adequate internal financial
+controls, that were operating effectively for ensuring the accuracy and completeness of the accounting records,
+relevant to the preparation and presentation of the financial statement that give a true and fair view and are free
+from material misstatement, whether due to fraud or error.
+
+Branch office : Door No 930, 1st Floor, 22nd Main Road, 4th T Block East, Jayanagar, Bangalore, Karnataka 560041
+Registered office : Behind Govt School, (Opp Shaneshwara Temple) Kudlu, Bangalore-560068
+Cell : +91-9986660579, 9663731357, E-mail : tejusbs@nxgconsulting.in, ravikiran@nxgconsulting.in
+Page 2 of 6
+
+
+
+--- Page 17 ---
+_ TEJUS AND RAVIKIRAN
+CHARTERED ACCOUNTANTS
+
+In preparing the financial statements, management is responsible for assessing the Company’s ability to continue
+as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis
+of accounting unless management either intends to liquidate the Company or to cease operations, or has no
+realistic alternative but to do so.
+The board of directors are also responsible for overseeing the Company’s financial reporting process.
+Auditor’s Responsibility for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from
+material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion.
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance
+with SAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error
+and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the
+economic decisions of users taken on the basis of these financial statements.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional
+skepticism throughout the audit. We also
+
+e Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error,
+design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and
+appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from
+fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions,
+misrepresentations, or the override of internal control.
+
+e Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are
+appropriate in the circumstances. Under section 143(3)(@) of the Companies Act, 2013, we are also responsible for
+expressing our opinion on whether the company has adequate internal financial controls system in place and the
+operating effectiveness of such controls.
+
+e Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and
+related disclosures made by management.
+
+Branch office : Door No 930, 1st Floor, 22nd Main Road, 4th T Block East, Jayanagar, Bangalore, Karnataka 560041
+Registered office : Behind Govt School, (Opp Shaneshwara Temple) Kudlu, Bangalore-560068
+Cell : +91-9986660579, 9663731357, E-mail : tejusbs@nxgconsulting.in, ravikiran@nxgconsulting.in
+Page 3 of 6
+
+
+
+--- Page 18 ---
+_ TEJUS AND RAVIKIRAN
+CHARTERED ACCOUNTANTS
+
+e Conclude on the appropriateness of management’s use of the going concern basis of accounting and, based on the
+audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast
+significant doubt on the Company’s ability to continue as a going concern. If we conclude that a material
+uncertainty exists, we are required to draw attention in our auditor’s report to the related disclosures in the
+financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on
+the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions may cause
+the Company to cease to continue as a going concern.
+
+e Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and
+whether the financial statements represent the underlying transactions and events in a manner that achieves fair
+presentation.
+
+Report on Other Legal and Regulatory Requirements
+As required by the Companies (Auditor’s Report) Order, 2020 (“the Order”), issued by the Central
+Government of India in terms of sub-section (11) of section 143 of the Companies Act, 2013, we give in the
+Annexure “A”, a statement on the matters specified in paragraphs 3 and 4 of the Order, to the extent
+applicable.
+As required by Section 143(3) of the Act, we report that:
+(a) We have sought and obtained all the information and explanations which to the best of our knowledge and
+belief were necessary for the purposes of our audit;
+(b) In our opinion, proper books of account as required by law have been kept by the Company so far as it
+appears from our examination of those books;
+(c) The Balance Sheet and the Statement of Profit and Loss dealt with by this report are in agreement with the
+books of account;
+(d)In our opinion, the aforesaid financial statements comply with the Accounting Standards specified under
+Section 133 of the Act, read with Rule 4 of the Companies (Accounting Standards) Rules, 2021.
+
+Branch office : Door No 930, 1st Floor, 22nd Main Road, 4th T Block East, Jayanagar, Bangalore, Karnataka 560041
+
+Registered office : Behind Govt School, (Opp Shaneshwara Temple) Kudlu, Bangalore-560068
+Cell : +91-9986660579, 9663731357, E-mail : tejusbs@nxgconsulting.in, ravikiran@nxgconsulting.in
+Page 4 of 6
+
+
+
+--- Page 19 ---
+_ TEJUS AND RAVIKIRAN
+CHARTERED ACCOUNTANTS
+
+(e) On the basis of the written representations received from the directors as on 31st March, 2023 taken on record
+by the Board of Directors, none of the directors is disqualified as on 31st March, 2023 from being appointed as a
+director in terms of Section 164 (2) of the Act.
+(f) As the Company’s turnover as per last audited financial statements is less than Rs.50 Crores and its
+borrowings from banks and financial institutions at any time during the year is less than Rs.25 Crores, the
+Company is exempted from getting an auditor’s opinion on adequacy of the internal financial controls over
+financial reporting of the company and the operating effectiveness of such controls as per vide notification dated
+June 13, 2017.
+(g) With respect to the other matters to be included in the Auditor’s Report in accordance with the requirements of
+section 197(16) of the Act, as amended:
+
+The company has not paid remuneration to any of its directors during the period covered under audit, hence
+
+reporting under this clause is not applicable.
+(h) With respect to the other matters to be included in the Auditor’s Report in accordance with Rule 11 of the
+Companies (Audit and Auditors) Rules, 2014, in our opinion and to the best of our information and according to
+the explanations given to us;
+
+1. The Company does not have any pending litigations which would impact its financial position.
+
+2. The Company does not have any long-term contracts including derivative contracts for which there were
+any material foreseeable losses.
+
+3. There were no amounts which were required to be transferred to the investor education and protection
+fund by the company.
+
+4. (a) The Management has represented that, to the best of its knowledge and belief, no funds (which are
+material either individually or in the aggregate) have been advanced or loaned or invested (either from
+borrowed funds or share premium or any other sources or kind of funds) by the Company to or in any
+other person or entity, including foreign entity (“Intermediaries”), with the understanding, whether
+recorded in writing or otherwise, that the Intermediary shall, whether, directly or indirectly lend or invest
+in other persons or entities identified in any manner whatsoever by or on behalf of the Company
+
+Branch office : Door No 930, 1st Floor, 22nd Main Road, 4th T Block East, Jayanagar, Bangalore, Karnataka 560041
+Registered office : Behind Govt School, (Opp Shaneshwara Temple) Kudlu, Bangalore-560068
+Cell : +91-9986660579, 9663731357, E-mail : tejusbs@nxgconsulting.in, ravikiran@nxgconsulting.in
+Page 5 of 6
+
+
+
+--- Page 20 ---
+_ TEJUS AND RAVIKIRAN
+CHARTERED ACCOUNTANTS
+(“Ultimate Beneficiaries”) or provide any guarantee, security or the like on behalf of the Ultimate
+Beneficiaries;
+(b) The Management has represented, that, to the best of its knowledge and belief, no funds (which are
+material either individually or in the aggregate) have been received by the Company from any person or
+entity, including foreign entity (“Funding Parties”), with the understanding, whether recorded in writing
+or otherwise, that the Company shall, whether, directly or indirectly, lend or invest in other persons or
+entities identified in any manner whatsoever by or on behalf of the Funding Party (“Ultimate
+Beneficiaries”) or provide any guarantee, security or the like on behalf of the Ultimate Beneficiaries;
+(c)Based on the audit procedures that have been considered reasonable and appropriate in the
+circumstances, nothing has come to our notice that has caused us to believe that the representations under
+sub-clause (i) and (ii) of Rule 11(e), as provided under (a) and (b) above, contain any material
+misstatement.
+5. The company has not declared or paid any dividend during the year in contravention of the provisions of
+section 123 of the Companies Act, 2013.
+
+For Tejus and Ravi Kiran
+
+Chartered Accountants
+
+FRN: 0134188
+
+, . Soe
+
+Ravi Kiran R
+
+Partner
+
+M.No: 225306
+
+UDIN: 23225306BGXFHQ6743
+
+Place: Bangalore
+
+Date: 20.09.2023
+
+Branch office : Door No 930, 1st Floor, 22nd Main Road, 4th T Block East, Jayanagar, Bangalore, Karnataka 560041
+Registered office : Behind Govt School, (Opp Shaneshwara Temple) Kudlu, Bangalore-560068
+Cell : +91-9986660579, 9663731357, E-mail : tejusbs@nxgconsulting.in, ravikiran@nxgconsulting.in
+Page 6 of 6
+

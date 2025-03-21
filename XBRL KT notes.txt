@@ -1,0 +1,36 @@
+
+AOC4 XBRL contents
+	
+	General AOC4 data(like Balance Sheet, Profit and Loss etc)
+	Statutory Audit Report
+	CARO Report
+	AOC2
+	Board Report
+
+ 
+File Generation Method
+	Utility tool to fill financial XBRL data
+	Validate the content in a website
+	Updated file will be converted  to xml
+	xml to pdf for reference
+ 
+
+Challenges 
+
+	Need to validate version changes based on financial years.
+	All form data(AOC2, BoardReport, AuditReport etc) comes in a single xml filesheet.
+	The form contents do not follow a fixed "field:value" format, can vary between companies
+
+
+Required FY data
+	21-22 
+	22-23
+	23-24
+
+
+POC - Display of product to customers(Blueprint of report)
+DD - Full data collection
+MVP - Minimal Viable Product
+
+
+
