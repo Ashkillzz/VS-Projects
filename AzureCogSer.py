@@ -4,7 +4,7 @@ from azure.ai.formrecognizer import DocumentAnalysisClient
 
 # Azure Form Recognizer credentials
 AZURE_FORM_RECOGNIZER_ENDPOINT = "https://data-verification.cognitiveservices.azure.com/"  # Replace with your endpoint
-AZURE_FORM_RECOGNIZER_KEY = "5QitoPlRdYtwAXec4W3xkh2N2ISiQrbsf5NkzeT782SyTSaC3z2GJQQJ99BAACGhslBXJ3w3AAALACOGmWwK"  # Replace with your API key
+AZURE_FORM_RECOGNIZER_KEY = ""  # Replace with your API key
 
 # Initialize DocumentAnalysisClient
 document_analysis_client = DocumentAnalysisClient(
